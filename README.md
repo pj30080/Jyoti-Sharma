@@ -1,10 +1,6 @@
-# Here is your **complete GitHub README intro** with **blue name link**, emojis, and **fun facts added** — clean, professional, and copy-paste ready:
-
----
-
 ### Hey there! 👋
 
-I'm [Jyoti Sharma]((https://www.linkedin.com/in/jyotisharma-da/)), a B.Tech CSE student and an aspiring Data Analyst.
+I'm Jyoti Sharma(https://www.linkedin.com/in/jyotisharma-da/), a B.Tech CSE student and an aspiring Data Analyst.
 
 I love exploring data, learning analytical tools, and creating simple but meaningful projects.
 Whenever an idea comes into my mind, I try to build it, test it, and improve it step by step.
