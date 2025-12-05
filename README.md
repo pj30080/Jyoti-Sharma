@@ -16,9 +16,11 @@ If you want to connect with me, you can reach me here:
  🌟 Fun Facts About Me
 
 📊 I enjoy turning raw data into clear insights
+
 💻 I love creating small data projects for practice
+
 🎨 I like aesthetic, clean, minimal designs
-📚 I learn something new every day—small progress counts
+
 🎵 Music helps me focus while working
 
 
